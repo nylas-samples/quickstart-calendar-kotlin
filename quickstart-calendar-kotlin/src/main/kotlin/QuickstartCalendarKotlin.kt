@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
             scope,
             true,
             "sQ6vFQN",
-            "atejada@gmail.com")
+            "swag@nylas.com")
 
         val url = nylas.auth().urlForOAuth2(config)
         response.redirect(url)
