@@ -29,7 +29,7 @@ EMAIL=<RECIPIENT_EMAIL_ADDRESS_HERE>
 
 ```text
 http://localhost:4567/nylas/primary-calendar
-http://localhost:4567/nylas/read-events
+http://localhost:4567/nylas/list-events
 http://localhost:4567/nylas/create-event
 
 ```
